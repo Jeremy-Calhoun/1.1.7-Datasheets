@@ -68,11 +68,11 @@ Use the table below to keep track of your sources before submitting.
 
 | Part Number | Manufacturer | Datasheet Link | Connection Diagram Located | Function Table Located |
 |---|---|---|---|---|
-| `74LS04` | ___ | ___ | Yes / No | Yes / No |
-| `74LS08` | ___ | ___ | Yes / No | Yes / No |
-| `74LS32` | ___ | ___ | Yes / No | Yes / No |
-| `74LS74` | ___ | ___ | Yes / No | Yes / No |
-| `LM555` | ___ | ___ | Yes / No | Yes / No |
+| `74LS04` | TI1 | https://www.alldatasheet.com/html-pdf/27365/TI/74LS04/20/1/74LS04.html | Yes | Yes |
+| `74LS08` | FAIRCHILD | https://www.alldatasheet.com/html-pdf/51024/FAIRCHILD/74LS08/405/1/74LS08.html| Yes | Yes |
+| `74LS32` | TI1 | https://www.alldatasheet.com/html-pdf/27420/TI/74LS32/20/1/74LS32.html | Yes | Yes |
+| `74LS74` | FAIRCHILD | https://www.alldatasheet.com/html-pdf/51091/FAIRCHILD/74LS74/405/1/74LS74.html | Yes | Yes |
+| `LM555` | TI1 | https://www.alldatasheet.com/html-pdf/791941/TI1/LM555/52/1/LM555.html | Yes | Yes |
 
 > **Image Placeholder:** Insert a screenshot or example of a datasheet connection diagram here.
 
