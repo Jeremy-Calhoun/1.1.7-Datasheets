@@ -106,11 +106,11 @@ Recreate and complete the following table in your PLTW Engineering Notebook.
 
 | Part Number | IC Name or Function | One Manufacturer |
 |---|---|---|
-| `DM74LS00` | ___ | ___ |
-| `SN74LS02` | ___ | ___ |
-| `DM74LS75` | ___ | ___ |
-| `SN74LS86` | ___ | ___ |
-| `MAN6760` | ___ | ___ |
+| `DM74LS00` | Quad 2-input NAND gate | Fairchild Semiconductor |
+| `SN74LS02` | Quad 2-input NOR gate | Texas Instruments |
+| `DM74LS75` | 4-bit bistable latch / quad latch | Fairchild Semiconductor |
+| `SN74LS86` | Quad 2-input exclusive-OR (XOR) gate | Texas Instruments |
+| `MAN6760` | Single-digit seven-segment LED display | Monsanto |
 
 ## Research Notes
 
@@ -145,11 +145,11 @@ Recreate and complete the following table in your PLTW Engineering Notebook.
 
 | Gate Name or Function | Gate Symbol | 74LS Series Part Number |
 |---|---|---|
-| 3-input AND gate | ___ | ___ |
-| 3-input NAND gate | ___ | ___ |
-| 4-input AND gate | ___ | ___ |
-| 4-input NAND gate | ___ | ___ |
-| 3-input NOR gate | ___ | ___ |
+| 3-input AND gate | 3-input AND symbol | 74LS11 |
+| 3-input NAND gate | 3-input AND symbol with output bubble | 74LS10 |
+| 4-input AND gate | 4-input AND symbol | 74LS21 |
+| 4-input NAND gate | 4-input AND symbol with output bubble | 74LS20 |
+| 3-input NOR gate | 3-input OR symbol with output bubble | 74LS27 |
 
 > **Image Placeholder:** Insert an image of your table from your engineering notebook here.
 
@@ -188,11 +188,11 @@ Recreate and complete the following table in your PLTW Engineering Notebook.
 
 | IC Package Abbreviation | Full Name | Your Drawing |
 |---|---|---|
-| DIP | ___ | Draw here |
-| SOIC | ___ | Draw here |
-| QFP | ___ | Draw here |
-| PLCC | ___ | Draw here |
-| BGA | ___ | Draw here |
+| DIP | Dual In-line Package | Draw here |
+| SOIC | Small Outline Integrated Circuit | Draw here |
+| QFP | Quad Flat Package | Draw here |
+| PLCC | Plastic Leaded Chip Carrier | Draw here |
+| BGA | Ball Grid Array | Draw here |
 
 > **Image Placeholder:** Insert an image from your notebook showing common IC package styles here.
 
@@ -218,8 +218,7 @@ Locate the CHIPS Act quote provided by your instructor or course materials.
 
 **Summarize the quote in your own words.**
 
-> _Write your response here._
-
+> The CHIPS and Science Act is meant to strengthen semiconductor research, development, and manufacturing in the United States. It invests in new facilities, technology, and workers so the country can produce more important computer chips domestically.
 ## NIST Research
 
 Conduct internet research about the National Institute of Standards and Technology, or NIST.
@@ -230,25 +229,25 @@ Address the following questions in complete sentences.
 
 **When and why was NIST created?**
 
-> _Write your response here._
+> NIST was created in 1901 as the National Bureau of Standards. It was established so the United States could maintain reliable measurement standards and solve problems involving measurements used by businesses, science, and industry. The agency was renamed the National Institute of Standards and Technology in 1988.
 
 ### 2. NIST Function
 
 **What is the role of NIST in the United States?**
 
-> _Write your response here._
+> NIST is a nonregulatory agency within the U.S. Department of Commerce. Its role is to advance measurement science, standards, and technology so that U.S. businesses can make dependable products, improve innovation, and support public safety and economic competitiveness.
 
 ### 3. Semiconductor Research
 
 **Why was NIST selected to conduct research and development that supports advancements in semiconductors?**
 
-> _Write your response here._
+> NIST was selected to support semiconductor research because it has long experience in measurement science, standards, reference materials, and calibration. Accurate measurements are essential when manufacturers make extremely small and complex computer chips, so NIST helps develop the metrology, standards, and production methods the industry needs.
 
 ### 4. Connection to Digital Electronics
 
 **How do standards, measurement, manufacturing, and semiconductor research affect the electronic devices people use every day?**
 
-> _Write your response here._
+> Standards and accurate measurements help manufacturers make electronic parts that work correctly and consistently. Semiconductor research improves the design and production of chips used in phones, computers, cars, household appliances, medical equipment, and communication systems.
 
 ---
 
@@ -262,25 +261,25 @@ Use the manufacturer datasheet you located for the `74LS04` hex inverter as a re
 
 **What is the nominal supply voltage, $V_{CC}$?**
 
-> _Write your answer here._
+> 5V
 
 ### Operating Temperature
 
 **What is the maximum free-air operating temperature, $T_A$?**
 
-> _Write your answer here._
+> 70 degrees C for the commercial SN74LS04
 
 ### Propagation Delay
 
 **What is the typical LOW-to-HIGH propagation delay, $t_{PLH}$?**
 
-> _Write your answer here._
+> 9ns
 
 ### IC Pin Spacing
 
 **What is the typical distance between two adjacent pins on a 14-pin dual in-line package?**
 
-> _Write your answer here._
+> 0.100 inch, or 2.54 mm
 
 > **Image Placeholder:** Insert a labeled 14-pin DIP package diagram showing adjacent pin spacing.
 
@@ -296,19 +295,19 @@ Use your research and datasheets to answer the following questions.
 
 **What is the function of a `MAN6760`?**
 
-> _Write your answer here._
+> A single-digit, seven-segment LED numeric display
 
 ### LM555 Timer
 
 **How many pins does an `LM555` timer have?**
 
-> _Write your answer here._
+> 8 pins
 
 ### 74LS08
 
 **What is the maximum supply voltage for a `74LS08`?**
 
-> _Write your answer here._
+> 7 V maximum supply voltage (absolute maximum rating)
 
 ## Summary Table
 
